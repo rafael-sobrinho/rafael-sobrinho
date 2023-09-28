@@ -1,5 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Rafael+Sobrinho;I'm+22+years+old;I+from+Brasil,+MG;I+study+Web+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h1 align="center">Seja Bem-Vindo ao perfil do Rafael Sobrinho!</h1>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-sobrinho&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/rafael-sobrinho/github-readme-stats)
