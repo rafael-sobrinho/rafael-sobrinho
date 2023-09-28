@@ -26,7 +26,7 @@
  
   ![Snake animation](https://github.com/rafael-sobrinho/rafael-sobrinho/blob/main/cobrinha_darkmode.svg)
   
-   ## Total de visitas ao meu perfil 🧑🏻‍💻☕
+   ## Total de visitas ao meu perfil
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/rafael-sobrinho/count.svg" />
 
 </div>
