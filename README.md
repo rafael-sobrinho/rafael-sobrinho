@@ -18,9 +18,6 @@
  
  <br>
  
-  <h3 align="center">Para mais contato comigo me segue nas redes aí em baixo!</h3>
-  <h4 align="center">🤫(OBS: Ctrl + Click -> Abre os links em uma nova aba para que você não precise sair daqui às pressas 😁✌️)</h4>
- 
 <div align="center">
   <a href="https://www.linkedin.com/in/rafael-sobrinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaeldsobrinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
