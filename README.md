@@ -1,5 +1,10 @@
 <h1 align="center">Seja Bem-Vindo ao perfil do Rafael Sobrinho!</h1>
+
+## 📈 Statistics:
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jainefranciellem&count_private=true&show_icons=true&theme=react&bg_color=00000000&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jainefranciellem&theme=react&bg_color=00000000&hide_border=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
+  
   <a href="https://github.com/rafael-sobrinho">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafael-sobrinho&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-sobrinho&layout=compact&langs_count=6&theme=highcontrast">
