@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/rafael-sobrinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafaeldsobrinho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafael-sobrinho/rafael-sobrinho/blob/main/cobrinha.yml)
+  ![Snake animation](https://github.com/rafael-sobrinho/rafael-sobrinho/blob/main/cobrinha_darkmode.svg)
   
    ## Total de visitas ao meu perfil 🧑🏻‍💻☕
  <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/rafael-sobrinho/count.svg" />
